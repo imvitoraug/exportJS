@@ -1,0 +1,1 @@
+import ordenar from "./ordenacao";
